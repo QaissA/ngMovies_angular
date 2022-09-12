@@ -1,0 +1,8 @@
+const imageBaseUrl = 'https://image.tmdb.org/t/p';
+
+export const IMAGES_SIZES = {
+  small: `${imageBaseUrl}/w342`,
+  meduim: `${imageBaseUrl}/w500`,
+  large: `${imageBaseUrl}/original`,
+  meduimlarge: `${imageBaseUrl}/w780`,
+};
